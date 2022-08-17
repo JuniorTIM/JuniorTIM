@@ -17,4 +17,6 @@
 
 Заинтересован в:
 
+-Изучение английского
 -[TypeScript](https://www.typescriptlang.org/)
+-[NextJs](https://nextjs.org/)
