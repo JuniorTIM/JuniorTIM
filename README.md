@@ -17,4 +17,4 @@
 
 Заинтересован в:
 
-- [TypeScript](https://www.typescriptlang.org/)
+-[TypeScript](https://www.typescriptlang.org/)
