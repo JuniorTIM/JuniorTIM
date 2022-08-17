@@ -19,9 +19,33 @@
 - ![Mongoose](https://img.shields.io/badge/-Mongoose-white?logo=mongoose&style=social)&nbsp;&nbsp;
 - ![Redux](https://img.shields.io/badge/-Redux-white?logo=redux&style=social)&nbsp;&nbsp;
 
-## Смотрю в будущее
+### Участвовал в таких проектах как:
 
-<h3> Заинтересован в: </h3>
+#### Частная клиника:
+
+> [Frontend](https://github.com/JuniorTIM/hospital-frontend)
+
+> [Backend](https://github.com/JuniorTIM/hospital-backend)
+
+#### Автотюнинг:
+
+> [Frontend](https://github.com/JuniorTIM/auto-tuning-frontend)
+
+> [Backend](https://github.com/JuniorTIM/auto-tuning-backend)
+
+#### Новостной сайт (соло проект):
+
+> [Frontend](https://github.com/JuniorTIM/news-frontend)
+
+> [Backend](https://github.com/JuniorTIM/news-backend)
+
+#### Первый командный проект:
+
+> [Backend](https://github.com/JuniorTIM/first-backend-project)
+
+### Смотрю в будущее
+
+<h4> Заинтересован в: </h4>
 
 -Изучение английского<br/>
 -[TypeScript](https://www.typescriptlang.org/)<br/>
