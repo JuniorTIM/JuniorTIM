@@ -1,19 +1,4 @@
-### <h1 align="center">Салют, меня зовут Муса, я frontend разработчик. 💻</h1>
-
-<!--
-**JuniorTIM/JuniorTIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <h1 align="center">Салют, меня зовут Муса, я Frontend разработчик. 💻</h1>
 
 **Мой стэк:** 
 
@@ -24,3 +9,6 @@ Here are some ideas to get you started:
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 - ![React](https://img.shields.io/badge/-React-white?logo=react&style=social)&nbsp;&nbsp;
 - ![Node](https://img.shields.io/badge/-Node-white?logo=nodejs&style=social)&nbsp;&nbsp;
+- ![Webpack](https://img.shields.io/badge/-Node-white?logo=webpack&style=social)&nbsp;&nbsp;
+- ![Mongoose](https://img.shields.io/badge/-Node-white?logo=mongoose&style=social)&nbsp;&nbsp;
+- ![Redux](https://img.shields.io/badge/-Node-white?logo=redux&style=social)&nbsp;&nbsp;
