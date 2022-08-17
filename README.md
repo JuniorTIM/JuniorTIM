@@ -1,10 +1,4 @@
-### Салют, меня зовут Муса.
-
-## Я Frontend разработчик. 💻
-
-- 💻 Веб разработчик
-- ☀️ Преисполняюсь в своём познании React 
-- 👯 Буду рад любому сотрудничеству и дельному совету
+## Салют, меня зовут Муса, я full-stack разработчик. 💻
 
 ### Языки и инструменты:
 
@@ -14,10 +8,12 @@
 - ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 - ![React](https://img.shields.io/badge/-React-white?logo=react&style=social)&nbsp;&nbsp;
-- ![Node](https://img.shields.io/badge/-Node-white?logo=nodejs&style=social)&nbsp;&nbsp;
+- ![NodeJs](https://img.shields.io/badge/-Node-white?logo=nodejs&style=social)&nbsp;&nbsp;
 - ![Webpack](https://img.shields.io/badge/-Webpack-white?logo=webpack&style=social)&nbsp;&nbsp;
 - ![Mongoose](https://img.shields.io/badge/-Mongoose-white?logo=mongoose&style=social)&nbsp;&nbsp;
 - ![Redux](https://img.shields.io/badge/-Redux-white?logo=redux&style=social)&nbsp;&nbsp;
+- ![Express](https://img.shields.io/badge/-Express-white?logo=express&style=social)&nbsp;&nbsp;
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-white?logo=mongodb&style=social)&nbsp;&nbsp;
 
 ### Участвовал в таких проектах как:
 
@@ -50,3 +46,5 @@
 -Изучение английского<br/>
 -[TypeScript](https://www.typescriptlang.org/)<br/>
 -[NextJs](https://nextjs.org/)
+
+#### Варианты для связи смотреть в био
