@@ -1,5 +1,4 @@
-### <h1>Салют, меня зовут Муса, я frontend разработчик. 💻</h1>
-<hr/>
+### <h1 align="center">Салют, меня зовут Муса, я frontend разработчик. 💻</h1>
 
 <!--
 **JuniorTIM/JuniorTIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
