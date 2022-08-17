@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 - ![React](https://img.shields.io/badge/-React-white?logo=react&style=social)&nbsp;&nbsp;
-- ![Node](https://img.shields.io/badge/-Node-green?logo=nodejs&style=social)&nbsp;&nbsp;
+- ![Node](https://img.shields.io/badge/-Node-white?logo=nodejs&style=social)&nbsp;&nbsp;
