@@ -9,6 +9,6 @@
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 - ![React](https://img.shields.io/badge/-React-white?logo=react&style=social)&nbsp;&nbsp;
 - ![Node](https://img.shields.io/badge/-Node-white?logo=nodejs&style=social)&nbsp;&nbsp;
-- ![Webpack](https://img.shields.io/badge/-Node-white?logo=webpack&style=social)&nbsp;&nbsp;
-- ![Mongoose](https://img.shields.io/badge/-Node-white?logo=mongoose&style=social)&nbsp;&nbsp;
-- ![Redux](https://img.shields.io/badge/-Node-white?logo=redux&style=social)&nbsp;&nbsp;
+- ![Webpack](https://img.shields.io/badge/-Webpack-white?logo=webpack&style=social)&nbsp;&nbsp;
+- ![Mongoose](https://img.shields.io/badge/-Mongoose-white?logo=mongoose&style=social)&nbsp;&nbsp;
+- ![Redux](https://img.shields.io/badge/-Redux-white?logo=redux&style=social)&nbsp;&nbsp;
